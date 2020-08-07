@@ -1,6 +1,6 @@
 # Pre-work - *Tip Calculator*
 
-**Tip Calculator** is an application that calculates the amount to tip for iOS.
+**Tip Calculator** is an application that calculates the amount to tip on a bill for iOS.
 
 Submitted by: **Chirag Kaudan**
 
